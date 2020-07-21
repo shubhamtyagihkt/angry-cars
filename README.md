@@ -1,6 +1,11 @@
 # angry-cars
 Angry Cars is a 2d game made in Unity version 2018.4.15f1
 
+## Setup for Play
+#### Clone this repository
+#### Open in Unity version 2018.4.15f1 or above
+#### Click Play Button
+
 ## GAME DESCRIPTION:
 #### In this game you need to get to the finish line with some health remaining.
 #### Opposite car on collisoin will decrease your car health.
@@ -16,6 +21,6 @@ Angry Cars is a 2d game made in Unity version 2018.4.15f1
 ### D - Right turn
 ### S - brakes / back driving
 
-### we can press escape any time to exit game
+### You can press escape any time to exit game
 
-[![Angry Cars Game Demo](http://img.youtube.com/vi/j3XGES9o5fQ//0.jpg)](http://www.youtube.com/watch?v=j3XGES9o5fQ)
+[Angry Cars Game Demo](http://www.youtube.com/watch?v=j3XGES9o5fQ)
